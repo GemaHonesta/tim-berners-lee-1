@@ -1,0 +1,15 @@
+
+/* Style the body */
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	/*padding-bottom: 10px;
+	font-weight: 400;*/
+}
