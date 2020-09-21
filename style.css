@@ -96,7 +96,7 @@ ul.social {
 }
 
 .movie .movie-desc {
-	margin-left: 30%;
+	margin-left: 26%;
 	font-size: 14px;
 }
 
@@ -109,6 +109,7 @@ ul.social {
 	width: 100%;
 }
 
-.img-block p {
-	text-align: justify;
+.movie-desc p {
+	text-align: left;
+	margin-bottom: 0;
 }
