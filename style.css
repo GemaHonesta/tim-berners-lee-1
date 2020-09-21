@@ -2,7 +2,8 @@
 /* Style the body */
 body {
 	margin: 0;
-	font-family: 'Montserrat', sans-serif;
+	/*font-family: 'Montserrat', sans-serif;*/
+	font-family: "Open Sans";
 }
 
 ul {
@@ -12,4 +13,10 @@ ul {
 li {
 	/*padding-bottom: 10px;
 	font-weight: 400;*/
+}
+
+.blocks {
+	background-color: #eee;
+	/*margin: 0 80px;*/
+	margin-bottom: 40px;
 }
