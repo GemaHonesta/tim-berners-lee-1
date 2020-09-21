@@ -3,7 +3,9 @@
 body {
 	margin: 0;
 	/*font-family: 'Montserrat', sans-serif;*/
-	font-family: "Open Sans";
+	font-family: 'Open Sans', sans-serif;;
+	background-color: #eee;
+	color: #808080;
 }
 
 ul {
@@ -15,8 +17,51 @@ li {
 	font-weight: 400;*/
 }
 
+/* Style the blocks */
 .blocks {
-	background-color: #eee;
-	/*margin: 0 80px;*/
+	background-color: #fff;
+	width: 40%;
+	margin: auto;
+	margin-top: 40px;
 	margin-bottom: 40px;
+	padding: 30px;
+	padding-bottom: 15px;
+	text-align: center;
+	border-radius: 4px;
+}
+
+#presentation h1 {
+	color: #de454c;
+	font-weight: 800;
+}
+
+#presentation h3 {
+	color: grey;
+}
+#presentation p {
+	margin-bottom: 5px;
+	text-align: justify;
+}
+
+#presentation img {
+	width: 25%;
+	border-radius: 50%;
+	border: 3px solid #ccc;
+}
+
+
+/* Style the first block */
+.see-more-btn {
+	background-color: #de454c;
+	border: none;
+	color: white;
+	padding: 10px 6px;
+	border-radius: 4px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+	margin: 4px 2px;
+	cursor: pointer;
+	letter-spacing: 0.5px;
 }
