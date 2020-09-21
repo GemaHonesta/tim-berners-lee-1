@@ -83,4 +83,32 @@ ul.social {
 
 #social-links a {
 	font-size: 14px;
-};
+}
+
+/* Style the second block */
+#his {
+	background-color: #ddd;
+}
+
+.movie {
+	display: inline-block;
+	padding: 30px 0;
+}
+
+.movie .movie-desc {
+	margin-left: 30%;
+	font-size: 14px;
+}
+
+.img-block {
+	width: 20%;
+	float: left;
+}
+
+.img-block img {
+	width: 100%;
+}
+
+.img-block p {
+	text-align: justify;
+}
