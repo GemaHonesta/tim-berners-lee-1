@@ -2,8 +2,7 @@
 /* Style the body */
 body {
 	margin: 0;
-	/*font-family: 'Montserrat', sans-serif;*/
-	font-family: 'Open Sans', sans-serif;;
+	font-family: "Open Sans", sans-serif;
 	background-color: #eee;
 	color: #808080;
 }
@@ -53,7 +52,6 @@ li {
 	border: 3px solid #ccc;
 }
 
-
 /* Style the first block */
 .see-more-btn {
 	background-color: #de454c;
@@ -69,6 +67,12 @@ li {
 	cursor: pointer;
 	letter-spacing: 0.5px;
 }
+
+/*#presentation a {
+  color: #fff;
+  background-color: red;
+  text-decoration: none;
+}*/
 
 /* Style the second block */
 ul.social {
